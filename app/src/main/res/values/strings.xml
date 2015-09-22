@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Two Screens</string>
+
+    <string name="first_screen">First Screen</string>
+    <string name="second_screen">Second Screen</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="go_to_second_screen">Send</string>
+    <string name="go_to_first_screen">Go to First Screen</string>
+    <string name="title_activity_second_screen">SecondScreen</string>
+</resources>
